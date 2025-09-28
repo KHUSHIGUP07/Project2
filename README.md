@@ -1,4 +1,5 @@
 AI-Powered Content Moderation System
+
 📌 Overview
 
 This project is a demo AI-powered content moderation system that allows users to upload files (images/videos/documents) and simulates moderation using simple AI logic. An Admin Dashboard is also provided to review flagged content and manage moderation statistics.
